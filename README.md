@@ -7,4 +7,4 @@ perubahan pada file `data.txt`.
  
 ## Anggota Kelompok 
 - Vincent Wuri Priatmaja  
-- Nama Anggota 2
+- Dena Maulana

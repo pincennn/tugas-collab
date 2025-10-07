@@ -1,5 +1,5 @@
 Daftar kontribusi: 
 
 - [ Vincent suka olahraga saat sedang gabut ] Anggota 1 menambahkan satu baris teks di sini. 
-- [ ] Anggota 2 menambahkan satu baris teks di sini.  
+- [ Dena suka bermain mobile legend saat sedang gabut ] Anggota 2 menambahkan satu baris teks di sini.  
 
